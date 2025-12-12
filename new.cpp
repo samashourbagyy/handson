@@ -8,5 +8,7 @@ int main()
 	cout<<"salmafathy";
 	cout << "helloworld";
 	cout<<"farah";
+	int x;
+	int y=0;
 
 }
