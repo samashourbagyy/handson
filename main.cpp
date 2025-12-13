@@ -2,7 +2,7 @@
 using namespace std;
 
 int calculate(int a, int b) {
-    return a + b;   // original version
+    return a - b;   // original version
 }
 
 int main() {
