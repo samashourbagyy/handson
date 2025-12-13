@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int calculate(int a, int b) {
+
+int calculate(int a, int b,int c=2) {
     return a - b;   // original version
 }
 
